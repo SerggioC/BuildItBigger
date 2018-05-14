@@ -1,0 +1,5 @@
+<resources>
+    <string name="instructions">Press the button for a delicious RANDOM joke!</string>
+    <string name="button_text">Tell a RANDOM Joke</string>
+    <string name="app_name">Build it Bigger Full</string>
+</resources>
